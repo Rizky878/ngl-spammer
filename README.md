@@ -1,5 +1,5 @@
 # SPAM NGL Unlimited
-![image](https://github.com/Rizky878/ngl-spammer/screenshot/blob/master/20220630_182536.jpg)
+![image](https://raw.githubusercontent.com/Rizky878/ngl-spammer/main/screenshot/20220630_182536.jpg)
 SPAM NGL dengan menggunakan bahasa pemrograman JavaScript
 
 ## Cara Install Termux
