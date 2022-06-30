@@ -1,0 +1,27 @@
+{
+  "name": "ngl-spammer",
+  "version": "2.0.0",
+  "description": "Ngl spammer using javascript",
+  "main": "ngl-spam.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "spammer",
+    "ngl",
+    "ngl",
+    "spam",
+    "ngl.link"
+  ],
+  "author": "Rizky Fadilah",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.0.0",
+    "delay": "^5.0.0",
+    "fake-useragent": "^1.0.1",
+    "node-fetch": "^2.0.0",
+    "readline-sync": "^1.4.10",
+    "spinnies": "^0.5.1"
+  },
+  "devDependencies": {}
+}
