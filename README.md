@@ -7,9 +7,9 @@ SPAM NGL dengan menggunakan bahasa pemrograman JavaScript
 > pkg upgrade
 > pkg install git
 > pkg install nodejs
-> npm install
 > git clone https://github.com/Rizky878/ngl-spammer
 > cd ngl-spammer
+> npm install
 > node ngl-spam
 ```
 
@@ -18,9 +18,9 @@ SPAM NGL dengan menggunakan bahasa pemrograman JavaScript
 ```
 > sudo apt-get install git
 > sudo apt-get install nodejs
-> npm install
 > git clone https://github.com/Rizky878/ngl-spammer
 > cd ngl-spammer
+> npm install
 > node ngl-spam
 ```
 
