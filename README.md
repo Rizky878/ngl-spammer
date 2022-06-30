@@ -4,6 +4,7 @@ SPAM NGL dengan menggunakan bahasa pemrograman JavaScript
 
 ## Cara Install Termux
 ```
+> pkg upgrade
 > pkg install git
 > pkg install nodejs
 > npm install
